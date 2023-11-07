@@ -1,8 +1,21 @@
 ```mermaid
 mindmap
 root((HTML))
+ head
+    title
+    meta
  body
- ((head))
-   title
-   meta
+   ((textos))
+     h1-h7
+     p
+     pre
+     a
+  ((inputs))
+     text
+     password
+     number
+     ranger
+     email
+     color
+     file
 ```
