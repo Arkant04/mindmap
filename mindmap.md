@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-root((HTML))
+root((HTML🤓​))
  head
     title
     meta
@@ -18,4 +18,21 @@ root((HTML))
      email
      color
      file
+  ((media))
+     img
+     video
+     audio
+     svg
+  ((container)) 
+     spam
+     div
+ ((eventos))
+     onclick
+     onchange
+ ((atributos))
+     id
+     class
+     src(source)
+     hidden
+     
 ```
